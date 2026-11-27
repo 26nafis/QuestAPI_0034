@@ -7,13 +7,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.pertemuan12"
+    namespace = "com.example.localrestapi"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.pertemuan12"
+        applicationId = "com.example.localrestapi"
         minSdk = 24
         targetSdk = 37
         versionCode = 1
